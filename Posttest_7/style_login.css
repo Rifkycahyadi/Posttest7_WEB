@@ -1,0 +1,22 @@
+head{
+    background-color: brown;
+}
+
+.form_login{
+    font-size: 50px;
+    text-align: center;
+    background-color: gold;
+}
+
+input{
+    height: 40px;
+
+}
+.submit:hover span {
+    width: 100%;
+
+}
+.df{
+    font-size: 30px;
+    text-align: center;
+}
